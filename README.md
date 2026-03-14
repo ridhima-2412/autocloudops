@@ -23,7 +23,7 @@ Each agent performs a specific role, enabling modular, scalable, and maintainabl
 ## HOW TO RUN / DEMO
 1. Clone the repository:  
    ```bash
-   git clone <your-repo-link>
+    git clone <your-repo-link>
   
 2.Navigate to the project directory:
  
@@ -42,6 +42,6 @@ Tip: Dashboard screenshots are available in the project PPT for reference.
 
 ## FUTURE WORK
 
-Integration with AWS CloudWatch for live cloud data
-Real-time monitoring of active cloud environments
-Implementation of autonomous optimization actions
+-**Integration with AWS CloudWatch for live cloud data**
+-**Real-time monitoring of active cloud environments**
+-**Implementation of autonomous optimization actions**
