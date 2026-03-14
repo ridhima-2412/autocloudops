@@ -1,1 +1,20 @@
-
+[
+  {
+    "instance_id": "i-101",
+    "cpu_usage": 8,
+    "memory_usage": 20,
+    "storage_usage": 30
+  },
+  {
+    "instance_id": "i-102",
+    "cpu_usage": 65,
+    "memory_usage": 70,
+    "storage_usage": 50
+  },
+  {
+    "instance_id": "i-103",
+    "cpu_usage": 5,
+    "memory_usage": 10,
+    "storage_usage": 15
+  }
+]
