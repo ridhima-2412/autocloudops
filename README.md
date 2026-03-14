@@ -1,8 +1,8 @@
-AutoCloudOps
+##AutoCloudOps
 
 AutoCloudOps is an agent-based AI prototype designed to monitor cloud infrastructure, analyze resource usage, and provide actionable optimization recommendations. It demonstrates how intelligent agents can enhance cloud efficiency and cost-effectiveness.
 
-Features
+#Features
 
 Cloud Metrics Monitoring: Continuously tracks usage statistics across cloud resources.
 
@@ -12,7 +12,7 @@ Cost Prediction: Estimates future cloud expenses based on usage trends.
 
 Optimization Recommendations: Suggests actionable strategies to reduce cost and improve efficiency.
 
-Architecture
+#Architecture
 
 The system follows a multi-agent pipeline:
 
@@ -20,7 +20,7 @@ Monitoring Agent → Analysis Agent → Prediction Agent → Optimization Agent
 
 Each agent performs a specific role, enabling modular, scalable, and maintainable operations.
 
-Tech Stack
+#Tech Stack
 
 Python – Core programming language
 
