@@ -24,27 +24,24 @@ Each agent performs a specific role, enabling modular, scalable, and maintainabl
 1. Clone the repository:  
    ```bash
    git clone <your-repo-link>
+  
+2.Navigate to the project directory:
+ 
+    cd AutoCloudOps
 
-Navigate to the project directory:
+3.Install required dependencies:
 
-cd AutoCloudOps
+    pip install -r requirements.txt
 
-Install required dependencies:
+4.Run the dashboard:
 
-pip install -r requirements.txt
+    streamlit run dashboard/dashboard.py
 
-Run the dashboard:
-
-streamlit run app.py
-
-Open the displayed link in your browser to interact with the dashboard.
-
+5.Open the displayed link in your browser to interact with the dashboard.
 Tip: Dashboard screenshots are available in the project PPT for reference.
 
-FUTURE WORK
+## FUTURE WORK
 
 Integration with AWS CloudWatch for live cloud data
-
 Real-time monitoring of active cloud environments
-
 Implementation of autonomous optimization actions
